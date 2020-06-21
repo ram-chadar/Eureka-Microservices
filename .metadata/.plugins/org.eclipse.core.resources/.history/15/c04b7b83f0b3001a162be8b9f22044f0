@@ -1,0 +1,5 @@
+package com.ram.hr.controller.model;
+
+public class Employee {
+
+}

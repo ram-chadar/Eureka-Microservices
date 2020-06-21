@@ -1,0 +1,5 @@
+package com.ram.pathology.controller;
+
+public class PathologyController {
+
+}

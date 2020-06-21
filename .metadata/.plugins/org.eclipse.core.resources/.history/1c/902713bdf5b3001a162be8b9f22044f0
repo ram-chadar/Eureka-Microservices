@@ -1,0 +1,10 @@
+package com.ram.hr.model;
+
+import java.util.List;
+
+import com.ram.hr.controller.model.Employee;
+
+public class EmployeesList {
+
+	public List<Employee> employees;
+}

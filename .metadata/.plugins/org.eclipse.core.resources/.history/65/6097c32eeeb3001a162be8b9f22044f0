@@ -1,0 +1,5 @@
+package com.ram.admission.model;
+
+public class Patient {
+
+}

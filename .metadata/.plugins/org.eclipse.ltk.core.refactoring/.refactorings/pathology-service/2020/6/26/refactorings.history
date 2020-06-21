@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;admission-service/src/main/java/com.ram.admission.model&apos;&#x0D;&#x0A;- Original project: &apos;pathology-service&apos;&#x0D;&#x0A;- Destination element: &apos;admission-service/src/main/java/com.ram.admission.model&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.ram.pathology.model.DiseasesList.java&#x0D;&#x0A;     com.ram.pathology.model.Disease.java" description="Copy compilation units" destination="=admission-service/src\/main\/java&lt;com.ram.admission.model" element1="/src\/main\/java&lt;com.ram.pathology.model{DiseasesList.java" element2="/src\/main\/java&lt;com.ram.pathology.model{Disease.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1592769733196" units="2" version="1.0"/>
+</session>
