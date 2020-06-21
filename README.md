@@ -2,15 +2,7 @@
   <a href="https://jdk.java.net/11/">
     <img src="https://img.shields.io/badge/Java-11-blue.svg" alt="Java 11">
   </a>
-  <a href="https://opencv.org/releases/">
-    <img src="https://img.shields.io/badge/OpenCV-4.0.1-blue.svg" alt="OpenCV-4.0.1">
-  </a>
-  <a href="https://GitHub.com/JakeJMattson/FacialRecognition/releases">
-    <img src="https://img.shields.io/github/release/JakeJMattson/FacialRecognition.svg" alt="release">
-  </a>
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/github/license/JakeJMattson/FacialRecognition.svg">
-  </a>
+ 
 </p>
 
 <p align="justify">
@@ -25,8 +17,7 @@ Running three different services in eureka srver
 ### Languages
 * [Java](https://jdk.java.net/11/)
 
-### Libraries
-* [OpenCV](https://opencv.org/about.html)
+
 
 ## Getting Started
 ### Installing Java
