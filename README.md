@@ -7,7 +7,7 @@
 
 <p align="justify">
 Running three different services in eureka srver 
-<b>* Spring Boot 
+<br><b>* Spring Boot 
 <br>
 * Microservices <br>
 * Eureka </b>
