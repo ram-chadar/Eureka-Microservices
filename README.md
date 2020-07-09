@@ -10,7 +10,7 @@ Running multiple services in eureka srver
 <br><b>* Spring Boot 
 <br>
 * Microservices <br>
-* Eureka </b><br>
+* Eureka <br>
 * zuul Api GateWay </b> </br>
 <h3>BY RAM CHADAR</h3>
 </p>
