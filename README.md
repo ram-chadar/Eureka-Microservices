@@ -6,7 +6,7 @@
 </p>
 
 <p align="justify">
-Running multiple services in eureka srver 
+Monitoring multiple services in eureka srver 
 <br><b>* Spring Boot 
 <br>
 * Microservices <br>
