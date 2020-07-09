@@ -12,7 +12,7 @@ Monitoring multiple services in eureka srver
 * Microservices <br>
 * Eureka <br>
 * zuul Api GateWay </b> </br>
-<h3>BY RAM CHADAR</h3>
+<h3 style="color:orange;">By RAM CHADAR</h3>
 </p>
 
 <img src="http://103.235.104.232:8090/samstrack/eureka.jpg">
